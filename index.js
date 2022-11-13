@@ -1,7 +1,4 @@
 const fs = require('fs');
-const yargs = require('yargs');
-
-const args = yargs.argv._[0];
 
 async function exportSecret({name, secret}) {
     if(!fs.existsSync('./distrox_secrets')) {
