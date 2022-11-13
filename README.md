@@ -1,15 +1,3 @@
-<style>
-    .subtitle {
-        background-color: black;
-        border-radius: 10px;
-        padding-left: 15px;
-    }
-
-    .title {
-        font-size: 40px
-    }
-</style>
-
 <h1 class="title">Distrox NPM Package</h1>
 <p class="subtitle">Distrox is a package that permits you to save secrets or private things on a dir and get it when you want</p>
 
