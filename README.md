@@ -71,6 +71,6 @@ None
 <br>
 <br>
 <br>
-<h5 style="text-align: center;">By the Secret.js Team/h5>
+<h5 style="text-align: center;">By the Secret.js Team</h5>
 
 
