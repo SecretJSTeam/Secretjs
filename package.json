@@ -1,5 +1,5 @@
 {
-  "name": "secretjs",
+  "name": "secret.js",
   "version": "1.0.0",
   "description": "Secret.js is a package that permits you to save secrets or private things on a dir and get it when you want.",
   "main": "./src/index.js",
@@ -18,7 +18,7 @@
   "homepage": "",
   "readme": "./README.md",
   "repository": {
-    "url": "https://github.com/SecretJSTeam/Secret.js.git",
+    "url": "https://github.com/SecretJSTeam/Secretjs.git",
     "type": "github"
   }
 }
