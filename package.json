@@ -1,18 +1,24 @@
 {
-  "name": "distrox",
+  "name": "secretjs",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Secret.js is a package that permits you to save secrets or private things on a dir and get it when you want.",
+  "main": "./src/index.js",
   "types": "./types/index.d.ts",
   "keywords": [
-    ""
+    "secret",
+    "secretjs",
+    "secret.js",
+    "js",
+    "private things",
+    "saver",
+    "dir"
   ],
   "author": "NullOnRise",
   "license": "MIT",
   "homepage": "",
-  "readme": "",
+  "readme": "./README.md",
   "repository": {
-    "url": "",
+    "url": "https://github.com/SecretJSTeam/Secret.js.git",
     "type": "github"
   }
 }
